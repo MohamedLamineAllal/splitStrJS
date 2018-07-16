@@ -7,7 +7,7 @@ There is no native function or method, that suport providing an array of multipl
 
 The function is in splitStr.js, you can copy past it to use it.
 
-The test.js is just for testing it. (it's using node)
+The test.js is just for testing it. (use node)
 
 ```javascript
 node test
