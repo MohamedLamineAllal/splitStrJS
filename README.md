@@ -7,6 +7,7 @@ There is no native function or method, that suport providing an array of multipl
 There is also two function with filtering capability (filtering here mean allow the add to split array for only the elements that are not added to the filter (exemple we don't want '' to be in the array, so we add it to the filter) [see the test.js file]). 
 
 The functions are in splitStr.js, you can copy past them to use them, or have it as a module, write back your export methode, depending in what context you are, if node it's already done, if es2015 you can use export default and import statements.
+Choose the functions that suite you.
 
 The test.js is just for testing it. (use node)
 
